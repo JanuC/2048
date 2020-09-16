@@ -1,0 +1,52 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    min-width: 1200px;
+    width: 60%;
+    height: 100%;
+    background-color: #F3F3F3;
+    position: absolute;
+    left: 20%;
+}
+.container .wrap {
+    width: 610px;
+    height: 610px;
+    background-color:#BBADA0;
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+    padding: 10px 0 0 10px;
+}
+.box_def {
+    width: 130px;
+    height: 130px;
+    background-color: #CDC1B4;
+    float: left;
+    border-radius: 8px;
+    margin: 10px 10px;
+    text-align: center;
+    line-height: 130px;
+    font-size: 50px;
+    font-weight: 700;
+}
+.color_2 {
+    background-color:#EEE4DA;
+}
+.color_4 {
+    background-color: #EDE0C8;
+}
+.color_8 {
+    background-color: #F2B179;
+}
+.color_16 {
+    background-color: #F59563;
+}
+.color_32 {
+    background-color:#F67C5F;
+}
